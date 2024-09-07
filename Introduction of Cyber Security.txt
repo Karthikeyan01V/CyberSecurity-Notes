@@ -1,0 +1,148 @@
+Cyber Security: 
+Is the technology and process that is designed to protect networks and devices from attack, damage, or Unauthorized access. 
+
+Adv: 
+Protection of business ,
+Increased productivity,
+inspired customer confidence. 
+Stop your website from crashing
+Protection for your customers or clients
+
+Why Cyber Security: 
+
+Main Pillers of Cyber Security: Confidentiality, Integrity and Availability have served as the Industry standard for computer security since the time of first mainframes, also known as CIA. 
+
+Confidentiality: 
+
+The principles of confidentiality assert that information and funtions can be accessed by Authorized parties. (Secrets)
+
+Integrity:
+
+The principles of integrity assert that information and funtions can be added, altered or removed only by authorized people and means. (EX: Incorrrect data entered by a user in database.)
+
+Availability: 
+
+The principles of availability assert that system, funtions and data must be available on demand according to agreed-upon parameters based on the levels of service. 
+
+Threats to CIA - Cybercrime: 
+
+Cybercrime is any criminal activity that involves a computer, network device or a network. 
+
+Most cybercrimes are carried out in order to generate profit for the cyber criminals. 
+
+Cybercrimes are carried out against computers or devices directly to damage or disable them, spread malware, steal secret information, etc.  
+
+Types of Cybercrime: 
+
+Computer assisted crimes: criminal activities carried out using computers as mere tools and or not specific to computers. -- DOS
+
+Computer as the target crimes: criminal activities focused on systems, servers, networks, and data stored on these systems. -- Sniffing, Viruses. 
+
+Computers Incidental to the crimes: These are the crimes where a computer is related or incidental to the crime. A crime could occur without the use of the computer. -- List of customers for traffickers. 
+
+Motives behind Cybercrime: 
+
+Distrupting business continuity
+Information theft and manipulating data. 
+creating fear and chaos by distrupting critical infrastructure. 
+Financial loss to the target
+Archiving state's military objectives
+Demanding ransom
+Damaging reputation of the target. 
+Propagating religious or political beliefs
+
+Types of Hackers:
+
+Black Hat: 
+Individuals with extraordinary computing skills resorting to malicious or distructive activities. 
+
+Grey Hat: 
+Individuals who work both offensively and Defensively at various times. 
+
+White Hat: 
+Individual professing hacker skills and using them for defensive purposes and also known as Security Analyst. 
+
+Suicide Hackers: 
+
+Individuals who aim to bring drown critical infrastructure for a cause and are not worried about facing jail terms or any other punishment.
+
+Script kiddie: 
+
+An unskilled hacker who compromises system by running scripts, tools and software developed by the real hacker. 
+
+Cyber Terrorist: 
+
+Individuals with wide range of skills motivated by religious or political beliefs to creat fear by large scale distruption of computer networks. 
+
+State Sponsored Hacker: 
+
+Individuals employed  by the government to penetrate and gain top-secret information and to damage information systems of other governments. 
+
+Hacktivist: 
+
+Individuals who promote a political agenda by hacking, especially defacing or disabling websites. 
+
+
+Most Common attack in Cyber Security. 
+
+01. DOS(Denial of Service)
+02. Malware Attack
+03. Man in the Middle attack (MITM)
+04. Phishing
+05. Drive by Attack
+06. Cross-Site Scripting Attack (XSS)
+07. Password Attack
+08. Eavesdropping Attack 
+09. SQL Injection Attack (SQLi)
+10. Birthday Attack
+
+History: 
+
+1980's - MNC Database (Pentagon and IBM) 
+1990's - National crackdown on criminals - MS NT OS pieced. 
+2001 - eBay, CNN, AMZ, etc. 
+2007 - Bank Hit (Swedish bank Nordea record nearly Doller - 1M has been stolen. 
+2013 - Abobe 2.9M accounts stolen
+2016 - 758M malicious attacks occured according to Kaspersky. 
+
+How does Cyber Security Works:
+
+Securing Computer : 
+  1. 2-Way Authentication
+  2. Secure Passwords
+  3. Regular Updates
+  4. Antivirus(AV) 
+  5. Firewall (FW)
+  6. No Phishing
+  7. Cyptography(Encryption) 
+  8. Securing DNS
+  
+Who is a Cyber Security Expert: 
+
+A Cyber Security expert is an individual employed by an organization to protect their data. 
+
+They do this through a variety of techniques , such as;
+
+i, Finding Weakness (Vuln Scan)
+ii, Monitor System 
+iii, N/W Breach
+
+After they find weakness they repair and then strengthen the areas where an attack may have occured. 
+
+Domains in Cyber Security: 
+
+1. Asset Security - Applications, devices, networks etc. 
+2. Security architecture and engineering - consistent infratriucture with how the security needs to be implemented. 
+3. Communication and network security
+4. Identity and Access management 
+5. Security Operation
+6. Security assessment and testing
+7. Software development security 
+8. Security and Risk Management 
+
+Courses and Certification: 
+
+Base - CompTIA Security+ 501
+Intermediate - Certified Ethical Hacker (CEH) 
+Management - CISSP - High Level Management level Cert
+Business Level - CISA, CISM, CRISC, CCSP
